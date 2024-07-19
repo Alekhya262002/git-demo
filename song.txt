@@ -7,3 +7,7 @@ abc2
 def2
 123
 456
+
+apple
+banana
+orange
